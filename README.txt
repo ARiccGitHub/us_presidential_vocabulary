@@ -57,7 +57,7 @@ Links:
 Project Blog Presentation:
 https://www.alex-ricciardi.com/post/u-s-a-presidential-vocabulary
 
-Project Code presentation (Jupyter Notebook):
+Project Code Presentation (Jupyter Notebook):
 https://github.com/ARiccGitHub/us_presidential_vocabulary/blob/master/us_presidential_vocabulary.ipynb
 
 Project GitHub:
