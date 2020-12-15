@@ -67,7 +67,7 @@ https://github.com/ARiccGitHub/us_presidential_vocabulary
 
 Project map:
 
-Python Jupiter Notebook Code Lines File:
+Python-Jupyter Notebook Code Lines File:
 us_presidential_vocabulary.ipynp
 
 Python Code Lines File
