@@ -37,6 +37,13 @@ Be familiar with:
 Link:
 My Project Blog Presentation:
 https://www.alex-ricciardi.com/post/u-s-a-presidential-vocabulary
+
+Project Jupiter Notebook Code presentation:
+https://github.com/ARiccGitHub/us_presidential_vocabulary/blob/master/us_presidential_vocabulary.ipynb
+
+Project GitHub:
+https://github.com/ARiccGitHub/us_presidential_vocabulary
+
 '''
 
 
